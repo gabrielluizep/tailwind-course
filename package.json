@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gabrielluizep <gabrielluizep@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.6"
+  }
+}
